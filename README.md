@@ -59,7 +59,6 @@ In principle, we follow Astar's New Program.
 - If we have extra LAY tokens, they are often carried over to the next month.
 <!-- -  Is this part right?-->
 - We will run this program for 4 months on a trial basis. The start date will be at the time of release and the end date will be 4 months after the release.
-- The release date will be right after Astar's main net launch.
 - If you fail to earn 50% of the points in both of the two month Candidate periods, you will be required to exit the community program.
 - We are still working on the reward pool. For us, our mission is to contribute to the Astar ecosystem, and we are looking at designs that will contribute the most to Astar.
 
